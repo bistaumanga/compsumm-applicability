@@ -1,0 +1,40 @@
+name: stancesumm
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - conda-forge::jupyterlab
+  - conda-forge::ipywidgets
+  - seaborn
+  - scipy
+  - scikit-learn
+  - conda-forge::spacy
+  # - pytorch
+  # - torchvision
+  - h5py
+  - nltk
+  - pip
+  - networkx
+  - gensim
+  - pip :
+    - pystan
+    - mypy
+    - pygsp
+    - git+https://github.com/ufoym/imbalanced-dataset-sampler.git
+    - lxml
+    - requests
+    - BeautifulSoup4
+    - tzlocal
+    - profilehooks
+    - xmltodict
+    - pyhocon
+    - regex
+    - langdetect
+    - elasticsearch==5.4.0
+    - elasticsearch_dsl==5.4
+    - lexrank
+    - python-igraph
+    - tweepy
+    - tomotopy
+    - transformers[torch]
+    - tensorboard

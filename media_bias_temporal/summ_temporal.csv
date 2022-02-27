@@ -1,0 +1,289 @@
+k,comp1,comp2,Hop,comp,Features,bacc.protos,se.protos,bacc.svm,se.svm,n,corr,correlation,diff,by
+4,Jan,Feb,1,Jan-Feb,BoW,0.5685,0.0063,0.6333,0.0068,30,0.8103,very strong (.8 1],0.0648,Month
+4,Jan,Feb,1,Jan-Feb,SBERT,0.5556,0.0066,0.6025,0.0071,30,0.7471,strong (.6 .8],0.0469,Month
+4,Jan,Mar,2,Jan-Mar,BoW,0.5856,0.0071,0.6634,0.0077,30,0.7237,strong (.6 .8],0.0778,Month
+4,Jan,Mar,2,Jan-Mar,SBERT,0.5672,0.0067,0.6222,0.0076,30,0.7307,strong (.6 .8],0.0551,Month
+4,Jan,Apr,3,Jan-Apr,BoW,0.5788,0.0081,0.6691,0.0102,30,0.7586,strong (.6 .8],0.0903,Month
+4,Jan,Apr,3,Jan-Apr,SBERT,0.5726,0.0071,0.634,0.0093,30,0.7738,strong (.6 .8],0.0614,Month
+4,Jan,May,4,Jan-May,BoW,0.5786,0.0062,0.6763,0.0077,30,0.7514,strong (.6 .8],0.0977,Month
+4,Jan,May,4,Jan-May,SBERT,0.5766,0.0062,0.6356,0.0079,30,0.7496,strong (.6 .8],0.059,Month
+4,Jan,Jun,5,Jan-Jun,BoW,0.5962,0.0072,0.6833,0.0072,30,0.6613,strong (.6 .8],0.0871,Month
+4,Jan,Jun,5,Jan-Jun,SBERT,0.5815,0.0059,0.6487,0.0075,30,0.6779,strong (.6 .8],0.0672,Month
+4,Jan,Jul,6,Jan-Jul,BoW,0.59,0.0077,0.6864,0.0082,30,0.7923,strong (.6 .8],0.0964,Month
+4,Jan,Jul,6,Jan-Jul,SBERT,0.5798,0.0068,0.6432,0.0074,30,0.82,very strong (.8 1],0.0633,Month
+4,Jan,Aug,7,Jan-Aug,BoW,0.5993,0.0087,0.694,0.0097,30,0.8005,very strong (.8 1],0.0948,Month
+4,Jan,Aug,7,Jan-Aug,SBERT,0.5891,0.0078,0.6607,0.0083,30,0.8346,very strong (.8 1],0.0716,Month
+4,Jan,Sep,8,Jan-Sep,BoW,0.6131,0.0085,0.6998,0.0092,30,0.7697,strong (.6 .8],0.0867,Month
+4,Jan,Sep,8,Jan-Sep,SBERT,0.6044,0.0091,0.6602,0.01,30,0.8128,very strong (.8 1],0.0558,Month
+4,Feb,Mar,1,Feb-Mar,BoW,0.5729,0.0089,0.6464,0.0107,30,0.7858,strong (.6 .8],0.0735,Month
+4,Feb,Mar,1,Feb-Mar,SBERT,0.564,0.0085,0.616,0.0099,30,0.8876,very strong (.8 1],0.052,Month
+4,Feb,Apr,2,Feb-Apr,BoW,0.5925,0.0065,0.6792,0.0091,30,0.7152,strong (.6 .8],0.0867,Month
+4,Feb,Apr,2,Feb-Apr,SBERT,0.573,0.006,0.6328,0.0069,30,0.718,strong (.6 .8],0.0598,Month
+4,Feb,May,3,Feb-May,BoW,0.5852,0.0065,0.6772,0.0075,30,0.6948,strong (.6 .8],0.0919,Month
+4,Feb,May,3,Feb-May,SBERT,0.5696,0.0048,0.6407,0.0065,30,0.7231,strong (.6 .8],0.0711,Month
+4,Feb,Jun,4,Feb-Jun,BoW,0.6064,0.0084,0.6891,0.0076,30,0.6522,strong (.6 .8],0.0827,Month
+4,Feb,Jun,4,Feb-Jun,SBERT,0.5821,0.0055,0.6471,0.0068,30,0.7911,strong (.6 .8],0.065,Month
+4,Feb,Jul,5,Feb-Jul,BoW,0.604,0.008,0.6937,0.008,30,0.6132,strong (.6 .8],0.0897,Month
+4,Feb,Jul,5,Feb-Jul,SBERT,0.5817,0.0061,0.6472,0.0063,30,0.688,strong (.6 .8],0.0655,Month
+4,Feb,Aug,6,Feb-Aug,BoW,0.6025,0.0076,0.7026,0.009,30,0.8079,very strong (.8 1],0.1001,Month
+4,Feb,Aug,6,Feb-Aug,SBERT,0.5815,0.007,0.6583,0.0086,30,0.8137,very strong (.8 1],0.0768,Month
+4,Feb,Sep,7,Feb-Sep,BoW,0.616,0.0066,0.7062,0.0094,30,0.844,very strong (.8 1],0.0902,Month
+4,Feb,Sep,7,Feb-Sep,SBERT,0.5997,0.0069,0.6658,0.0081,30,0.6619,strong (.6 .8],0.0661,Month
+4,Mar,Apr,1,Mar-Apr,BoW,0.563,0.0065,0.6459,0.0078,30,0.6512,strong (.6 .8],0.0829,Month
+4,Mar,Apr,1,Mar-Apr,SBERT,0.5589,0.0066,0.6117,0.0074,30,0.6655,strong (.6 .8],0.0528,Month
+4,Mar,May,2,Mar-May,BoW,0.5749,0.0075,0.6621,0.0058,30,0.6638,strong (.6 .8],0.0872,Month
+4,Mar,May,2,Mar-May,SBERT,0.5597,0.0059,0.6198,0.0058,30,0.6388,strong (.6 .8],0.0601,Month
+4,Mar,Jun,3,Mar-Jun,BoW,0.6026,0.007,0.6861,0.0059,30,0.7175,strong (.6 .8],0.0835,Month
+4,Mar,Jun,3,Mar-Jun,SBERT,0.5812,0.0064,0.642,0.006,30,0.6741,strong (.6 .8],0.0608,Month
+4,Mar,Jul,4,Mar-Jul,BoW,0.5906,0.0074,0.6868,0.0056,30,0.6524,strong (.6 .8],0.0962,Month
+4,Mar,Jul,4,Mar-Jul,SBERT,0.5808,0.0057,0.6444,0.0065,30,0.5622,moderate (.4 .6],0.0636,Month
+4,Mar,Aug,5,Mar-Aug,BoW,0.5933,0.0105,0.6934,0.0103,30,0.8298,very strong (.8 1],0.1001,Month
+4,Mar,Aug,5,Mar-Aug,SBERT,0.5879,0.0098,0.6528,0.0109,30,0.8772,very strong (.8 1],0.0649,Month
+4,Mar,Sep,6,Mar-Sep,BoW,0.6079,0.0095,0.7015,0.0101,30,0.8956,very strong (.8 1],0.0937,Month
+4,Mar,Sep,6,Mar-Sep,SBERT,0.5986,0.0077,0.6625,0.0078,30,0.8173,very strong (.8 1],0.0639,Month
+4,Apr,May,1,Apr-May,BoW,0.5612,0.0044,0.6391,0.0067,30,0.4411,moderate (.4 .6],0.0779,Month
+4,Apr,May,1,Apr-May,SBERT,0.5387,0.0053,0.5977,0.0065,30,0.7662,strong (.6 .8],0.059,Month
+4,Apr,Jun,2,Apr-Jun,BoW,0.5985,0.0063,0.6755,0.0079,30,0.5829,moderate (.4 .6],0.077,Month
+4,Apr,Jun,2,Apr-Jun,SBERT,0.5756,0.007,0.634,0.0078,30,0.6742,strong (.6 .8],0.0584,Month
+4,Apr,Jul,3,Apr-Jul,BoW,0.5835,0.0079,0.6783,0.008,30,0.6874,strong (.6 .8],0.0948,Month
+4,Apr,Jul,3,Apr-Jul,SBERT,0.5603,0.0061,0.6316,0.0087,30,0.7095,strong (.6 .8],0.0713,Month
+4,Apr,Aug,4,Apr-Aug,BoW,0.5999,0.0081,0.6935,0.0093,30,0.7538,strong (.6 .8],0.0936,Month
+4,Apr,Aug,4,Apr-Aug,SBERT,0.5863,0.0073,0.6528,0.009,30,0.8162,very strong (.8 1],0.0665,Month
+4,Apr,Sep,5,Apr-Sep,BoW,0.603,0.0075,0.6961,0.0101,30,0.7352,strong (.6 .8],0.093,Month
+4,Apr,Sep,5,Apr-Sep,SBERT,0.5839,0.007,0.6487,0.0079,30,0.7649,strong (.6 .8],0.0649,Month
+4,May,Jun,1,May-Jun,BoW,0.5812,0.0066,0.6549,0.0064,30,0.7279,strong (.6 .8],0.0737,Month
+4,May,Jun,1,May-Jun,SBERT,0.5656,0.0069,0.6226,0.007,30,0.7441,strong (.6 .8],0.057,Month
+4,May,Jul,2,May-Jul,BoW,0.579,0.0062,0.6706,0.007,30,0.4957,moderate (.4 .6],0.0916,Month
+4,May,Jul,2,May-Jul,SBERT,0.566,0.0054,0.6306,0.0056,30,0.4871,moderate (.4 .6],0.0646,Month
+4,May,Aug,3,May-Aug,BoW,0.594,0.0093,0.69,0.0079,30,0.842,very strong (.8 1],0.0959,Month
+4,May,Aug,3,May-Aug,SBERT,0.584,0.0091,0.651,0.0092,30,0.8916,very strong (.8 1],0.067,Month
+4,May,Sep,4,May-Sep,BoW,0.6026,0.0079,0.6931,0.0081,30,0.7915,strong (.6 .8],0.0905,Month
+4,May,Sep,4,May-Sep,SBERT,0.5847,0.0067,0.6531,0.0066,30,0.7753,strong (.6 .8],0.0684,Month
+4,Jun,Jul,1,Jun-Jul,BoW,0.5646,0.0048,0.6321,0.0058,30,0.1445,negligible (-1 .2],0.0676,Month
+4,Jun,Jul,1,Jun-Jul,SBERT,0.5605,0.0043,0.6081,0.0042,30,0.5994,moderate (.4 .6],0.0476,Month
+4,Jun,Aug,2,Jun-Aug,BoW,0.5932,0.0084,0.6764,0.0077,30,0.6321,strong (.6 .8],0.0832,Month
+4,Jun,Aug,2,Jun-Aug,SBERT,0.5866,0.0069,0.6468,0.0081,30,0.8579,very strong (.8 1],0.0602,Month
+4,Jun,Sep,3,Jun-Sep,BoW,0.6054,0.0069,0.6884,0.0078,30,0.83,very strong (.8 1],0.0831,Month
+4,Jun,Sep,3,Jun-Sep,SBERT,0.5967,0.0067,0.6507,0.0081,30,0.7043,strong (.6 .8],0.054,Month
+4,Jul,Aug,1,Jul-Aug,BoW,0.5725,0.0089,0.6502,0.0077,30,0.6729,strong (.6 .8],0.0777,Month
+4,Jul,Aug,1,Jul-Aug,SBERT,0.5657,0.0075,0.6197,0.0082,30,0.8188,very strong (.8 1],0.054,Month
+4,Jul,Sep,2,Jul-Sep,BoW,0.5966,0.0067,0.6815,0.0071,30,0.6326,strong (.6 .8],0.0849,Month
+4,Jul,Sep,2,Jul-Sep,SBERT,0.5874,0.0063,0.6387,0.0068,30,0.6056,strong (.6 .8],0.0514,Month
+4,Aug,Sep,1,Aug-Sep,BoW,0.5704,0.0052,0.659,0.0085,30,0.7535,strong (.6 .8],0.0886,Month
+4,Aug,Sep,1,Aug-Sep,SBERT,0.5621,0.0059,0.6138,0.0079,30,0.7595,strong (.6 .8],0.0517,Month
+8,Jan,Feb,1,Jan-Feb,BoW,0.5858,0.006,0.6333,0.0068,30,0.8181,very strong (.8 1],0.0474,Month
+8,Jan,Feb,1,Jan-Feb,SBERT,0.5672,0.0067,0.6025,0.0071,30,0.7953,strong (.6 .8],0.0353,Month
+8,Jan,Mar,2,Jan-Mar,BoW,0.602,0.0071,0.6634,0.0077,30,0.6754,strong (.6 .8],0.0613,Month
+8,Jan,Mar,2,Jan-Mar,SBERT,0.5843,0.0059,0.6222,0.0076,30,0.8403,very strong (.8 1],0.038,Month
+8,Jan,Apr,3,Jan-Apr,BoW,0.5989,0.0081,0.6691,0.0102,30,0.8056,very strong (.8 1],0.0702,Month
+8,Jan,Apr,3,Jan-Apr,SBERT,0.5839,0.0076,0.634,0.0093,30,0.8073,very strong (.8 1],0.0501,Month
+8,Jan,May,4,Jan-May,BoW,0.6007,0.007,0.6763,0.0077,30,0.8189,very strong (.8 1],0.0756,Month
+8,Jan,May,4,Jan-May,SBERT,0.5909,0.0062,0.6356,0.0079,30,0.7162,strong (.6 .8],0.0447,Month
+8,Jan,Jun,5,Jan-Jun,BoW,0.6176,0.0067,0.6833,0.0072,30,0.7058,strong (.6 .8],0.0657,Month
+8,Jan,Jun,5,Jan-Jun,SBERT,0.5961,0.0063,0.6487,0.0075,30,0.7742,strong (.6 .8],0.0526,Month
+8,Jan,Jul,6,Jan-Jul,BoW,0.6119,0.0075,0.6864,0.0082,30,0.811,very strong (.8 1],0.0745,Month
+8,Jan,Jul,6,Jan-Jul,SBERT,0.5982,0.007,0.6432,0.0074,30,0.798,strong (.6 .8],0.0449,Month
+8,Jan,Aug,7,Jan-Aug,BoW,0.6238,0.0098,0.694,0.0097,30,0.8398,very strong (.8 1],0.0703,Month
+8,Jan,Aug,7,Jan-Aug,SBERT,0.608,0.008,0.6607,0.0083,30,0.8996,very strong (.8 1],0.0527,Month
+8,Jan,Sep,8,Jan-Sep,BoW,0.6351,0.0091,0.6998,0.0092,30,0.832,very strong (.8 1],0.0647,Month
+8,Jan,Sep,8,Jan-Sep,SBERT,0.6196,0.0091,0.6602,0.01,30,0.8545,very strong (.8 1],0.0407,Month
+8,Feb,Mar,1,Feb-Mar,BoW,0.5878,0.009,0.6464,0.0107,30,0.8427,very strong (.8 1],0.0587,Month
+8,Feb,Mar,1,Feb-Mar,SBERT,0.5801,0.0092,0.616,0.0099,30,0.8845,very strong (.8 1],0.0359,Month
+8,Feb,Apr,2,Feb-Apr,BoW,0.6113,0.0075,0.6792,0.0091,30,0.7951,strong (.6 .8],0.0679,Month
+8,Feb,Apr,2,Feb-Apr,SBERT,0.5888,0.0065,0.6328,0.0069,30,0.7585,strong (.6 .8],0.044,Month
+8,Feb,May,3,Feb-May,BoW,0.6037,0.0066,0.6772,0.0075,30,0.6999,strong (.6 .8],0.0734,Month
+8,Feb,May,3,Feb-May,SBERT,0.5893,0.0058,0.6407,0.0065,30,0.8222,very strong (.8 1],0.0514,Month
+8,Feb,Jun,4,Feb-Jun,BoW,0.6287,0.0076,0.6891,0.0076,30,0.6039,strong (.6 .8],0.0604,Month
+8,Feb,Jun,4,Feb-Jun,SBERT,0.6003,0.0059,0.6471,0.0068,30,0.8118,very strong (.8 1],0.0468,Month
+8,Feb,Jul,5,Feb-Jul,BoW,0.6224,0.008,0.6937,0.008,30,0.6882,strong (.6 .8],0.0713,Month
+8,Feb,Jul,5,Feb-Jul,SBERT,0.5984,0.006,0.6472,0.0063,30,0.801,very strong (.8 1],0.0487,Month
+8,Feb,Aug,6,Feb-Aug,BoW,0.6201,0.0095,0.7026,0.009,30,0.8616,very strong (.8 1],0.0825,Month
+8,Feb,Aug,6,Feb-Aug,SBERT,0.6031,0.0074,0.6583,0.0086,30,0.8877,very strong (.8 1],0.0553,Month
+8,Feb,Sep,7,Feb-Sep,BoW,0.6398,0.0074,0.7062,0.0094,30,0.8539,very strong (.8 1],0.0664,Month
+8,Feb,Sep,7,Feb-Sep,SBERT,0.6173,0.0075,0.6658,0.0081,30,0.7915,strong (.6 .8],0.0485,Month
+8,Mar,Apr,1,Mar-Apr,BoW,0.5827,0.007,0.6459,0.0078,30,0.6922,strong (.6 .8],0.0632,Month
+8,Mar,Apr,1,Mar-Apr,SBERT,0.5731,0.0065,0.6117,0.0074,30,0.7559,strong (.6 .8],0.0386,Month
+8,Mar,May,2,Mar-May,BoW,0.5893,0.0086,0.6621,0.0058,30,0.733,strong (.6 .8],0.0728,Month
+8,Mar,May,2,Mar-May,SBERT,0.5774,0.0062,0.6198,0.0058,30,0.7191,strong (.6 .8],0.0424,Month
+8,Mar,Jun,3,Mar-Jun,BoW,0.6194,0.0064,0.6861,0.0059,30,0.7094,strong (.6 .8],0.0667,Month
+8,Mar,Jun,3,Mar-Jun,SBERT,0.5982,0.0055,0.642,0.006,30,0.7832,strong (.6 .8],0.0438,Month
+8,Mar,Jul,4,Mar-Jul,BoW,0.6101,0.0075,0.6868,0.0056,30,0.6966,strong (.6 .8],0.0767,Month
+8,Mar,Jul,4,Mar-Jul,SBERT,0.5935,0.0064,0.6444,0.0065,30,0.7163,strong (.6 .8],0.0509,Month
+8,Mar,Aug,5,Mar-Aug,BoW,0.6128,0.0101,0.6934,0.0103,30,0.8635,very strong (.8 1],0.0806,Month
+8,Mar,Aug,5,Mar-Aug,SBERT,0.6047,0.0105,0.6528,0.0109,30,0.9048,very strong (.8 1],0.0481,Month
+8,Mar,Sep,6,Mar-Sep,BoW,0.6275,0.0094,0.7015,0.0101,30,0.8815,very strong (.8 1],0.074,Month
+8,Mar,Sep,6,Mar-Sep,SBERT,0.6158,0.008,0.6625,0.0078,30,0.8749,very strong (.8 1],0.0467,Month
+8,Apr,May,1,Apr-May,BoW,0.5757,0.0047,0.6391,0.0067,30,0.671,strong (.6 .8],0.0634,Month
+8,Apr,May,1,Apr-May,SBERT,0.5569,0.0045,0.5977,0.0065,30,0.7506,strong (.6 .8],0.0408,Month
+8,Apr,Jun,2,Apr-Jun,BoW,0.609,0.0061,0.6755,0.0079,30,0.7724,strong (.6 .8],0.0665,Month
+8,Apr,Jun,2,Apr-Jun,SBERT,0.5881,0.0064,0.634,0.0078,30,0.7779,strong (.6 .8],0.0459,Month
+8,Apr,Jul,3,Apr-Jul,BoW,0.5982,0.007,0.6783,0.008,30,0.7478,strong (.6 .8],0.0801,Month
+8,Apr,Jul,3,Apr-Jul,SBERT,0.5767,0.0062,0.6316,0.0087,30,0.7631,strong (.6 .8],0.0549,Month
+8,Apr,Aug,4,Apr-Aug,BoW,0.6196,0.0089,0.6935,0.0093,30,0.683,strong (.6 .8],0.0739,Month
+8,Apr,Aug,4,Apr-Aug,SBERT,0.6089,0.0067,0.6528,0.009,30,0.7977,strong (.6 .8],0.0439,Month
+8,Apr,Sep,5,Apr-Sep,BoW,0.6269,0.0078,0.6961,0.0101,30,0.7525,strong (.6 .8],0.0692,Month
+8,Apr,Sep,5,Apr-Sep,SBERT,0.6027,0.008,0.6487,0.0079,30,0.8565,very strong (.8 1],0.046,Month
+8,May,Jun,1,May-Jun,BoW,0.5962,0.0062,0.6549,0.0064,30,0.7541,strong (.6 .8],0.0586,Month
+8,May,Jun,1,May-Jun,SBERT,0.5851,0.0063,0.6226,0.007,30,0.6877,strong (.6 .8],0.0375,Month
+8,May,Jul,2,May-Jul,BoW,0.5912,0.0068,0.6706,0.007,30,0.6946,strong (.6 .8],0.0794,Month
+8,May,Jul,2,May-Jul,SBERT,0.5825,0.0051,0.6306,0.0056,30,0.6213,strong (.6 .8],0.0481,Month
+8,May,Aug,3,May-Aug,BoW,0.61,0.0091,0.69,0.0079,30,0.7722,strong (.6 .8],0.0799,Month
+8,May,Aug,3,May-Aug,SBERT,0.6071,0.0085,0.651,0.0092,30,0.9128,very strong (.8 1],0.0439,Month
+8,May,Sep,4,May-Sep,BoW,0.6233,0.0072,0.6931,0.0081,30,0.8183,very strong (.8 1],0.0698,Month
+8,May,Sep,4,May-Sep,SBERT,0.602,0.0069,0.6531,0.0066,30,0.7461,strong (.6 .8],0.0511,Month
+8,Jun,Jul,1,Jun-Jul,BoW,0.5785,0.0047,0.6321,0.0058,30,0.2507,low (.2 .4],0.0536,Month
+8,Jun,Jul,1,Jun-Jul,SBERT,0.572,0.0037,0.6081,0.0042,30,0.5935,moderate (.4 .6],0.036,Month
+8,Jun,Aug,2,Jun-Aug,BoW,0.6111,0.0077,0.6764,0.0077,30,0.7381,strong (.6 .8],0.0653,Month
+8,Jun,Aug,2,Jun-Aug,SBERT,0.6044,0.0069,0.6468,0.0081,30,0.9217,very strong (.8 1],0.0424,Month
+8,Jun,Sep,3,Jun-Sep,BoW,0.6273,0.0068,0.6884,0.0078,30,0.8045,very strong (.8 1],0.0612,Month
+8,Jun,Sep,3,Jun-Sep,SBERT,0.6175,0.0064,0.6507,0.0081,30,0.7624,strong (.6 .8],0.0332,Month
+8,Jul,Aug,1,Jul-Aug,BoW,0.5882,0.0089,0.6502,0.0077,30,0.7713,strong (.6 .8],0.062,Month
+8,Jul,Aug,1,Jul-Aug,SBERT,0.5785,0.0083,0.6197,0.0082,30,0.8641,very strong (.8 1],0.0413,Month
+8,Jul,Sep,2,Jul-Sep,BoW,0.6165,0.008,0.6815,0.0071,30,0.6876,strong (.6 .8],0.065,Month
+8,Jul,Sep,2,Jul-Sep,SBERT,0.6022,0.0062,0.6387,0.0068,30,0.6972,strong (.6 .8],0.0365,Month
+8,Aug,Sep,1,Aug-Sep,BoW,0.5908,0.0063,0.659,0.0085,30,0.7975,strong (.6 .8],0.0681,Month
+8,Aug,Sep,1,Aug-Sep,SBERT,0.5765,0.0066,0.6138,0.0079,30,0.7814,strong (.6 .8],0.0373,Month
+16,Jan,Feb,1,Jan-Feb,BoW,0.5985,0.0068,0.6333,0.0068,30,0.8348,very strong (.8 1],0.0348,Month
+16,Jan,Feb,1,Jan-Feb,SBERT,0.5807,0.0073,0.6025,0.0071,30,0.9115,very strong (.8 1],0.0217,Month
+16,Jan,Mar,2,Jan-Mar,BoW,0.6166,0.0068,0.6634,0.0077,30,0.7517,strong (.6 .8],0.0467,Month
+16,Jan,Mar,2,Jan-Mar,SBERT,0.5971,0.0062,0.6222,0.0076,30,0.8494,very strong (.8 1],0.0252,Month
+16,Jan,Apr,3,Jan-Apr,BoW,0.6211,0.0088,0.6691,0.0102,30,0.8465,very strong (.8 1],0.0479,Month
+16,Jan,Apr,3,Jan-Apr,SBERT,0.6014,0.0076,0.634,0.0093,30,0.8598,very strong (.8 1],0.0326,Month
+16,Jan,May,4,Jan-May,BoW,0.6224,0.0068,0.6763,0.0077,30,0.8223,very strong (.8 1],0.0539,Month
+16,Jan,May,4,Jan-May,SBERT,0.6066,0.0075,0.6356,0.0079,30,0.8034,very strong (.8 1],0.029,Month
+16,Jan,Jun,5,Jan-Jun,BoW,0.6364,0.0063,0.6833,0.0072,30,0.7188,strong (.6 .8],0.0469,Month
+16,Jan,Jun,5,Jan-Jun,SBERT,0.6181,0.0063,0.6487,0.0075,30,0.853,very strong (.8 1],0.0306,Month
+16,Jan,Jul,6,Jan-Jul,BoW,0.6295,0.0078,0.6864,0.0082,30,0.8326,very strong (.8 1],0.0569,Month
+16,Jan,Jul,6,Jan-Jul,SBERT,0.6139,0.0067,0.6432,0.0074,30,0.8425,very strong (.8 1],0.0292,Month
+16,Jan,Aug,7,Jan-Aug,BoW,0.643,0.0096,0.694,0.0097,30,0.8605,very strong (.8 1],0.051,Month
+16,Jan,Aug,7,Jan-Aug,SBERT,0.6254,0.0083,0.6607,0.0083,30,0.8853,very strong (.8 1],0.0353,Month
+16,Jan,Sep,8,Jan-Sep,BoW,0.6569,0.0089,0.6998,0.0092,30,0.8521,very strong (.8 1],0.0429,Month
+16,Jan,Sep,8,Jan-Sep,SBERT,0.634,0.0092,0.6602,0.01,30,0.9168,very strong (.8 1],0.0263,Month
+16,Feb,Mar,1,Feb-Mar,BoW,0.6019,0.0096,0.6464,0.0107,30,0.863,very strong (.8 1],0.0445,Month
+16,Feb,Mar,1,Feb-Mar,SBERT,0.5888,0.0091,0.616,0.0099,30,0.9273,very strong (.8 1],0.0272,Month
+16,Feb,Apr,2,Feb-Apr,BoW,0.6294,0.0079,0.6792,0.0091,30,0.8554,very strong (.8 1],0.0498,Month
+16,Feb,Apr,2,Feb-Apr,SBERT,0.6023,0.0059,0.6328,0.0069,30,0.8601,very strong (.8 1],0.0305,Month
+16,Feb,May,3,Feb-May,BoW,0.621,0.0071,0.6772,0.0075,30,0.7813,strong (.6 .8],0.0562,Month
+16,Feb,May,3,Feb-May,SBERT,0.6081,0.0062,0.6407,0.0065,30,0.7635,strong (.6 .8],0.0325,Month
+16,Feb,Jun,4,Feb-Jun,BoW,0.6419,0.0069,0.6891,0.0076,30,0.6582,strong (.6 .8],0.0473,Month
+16,Feb,Jun,4,Feb-Jun,SBERT,0.6143,0.0058,0.6471,0.0068,30,0.8074,very strong (.8 1],0.0328,Month
+16,Feb,Jul,5,Feb-Jul,BoW,0.6395,0.0082,0.6937,0.008,30,0.6716,strong (.6 .8],0.0542,Month
+16,Feb,Jul,5,Feb-Jul,SBERT,0.614,0.0066,0.6472,0.0063,30,0.8199,very strong (.8 1],0.0332,Month
+16,Feb,Aug,6,Feb-Aug,BoW,0.6405,0.0092,0.7026,0.009,30,0.909,very strong (.8 1],0.0622,Month
+16,Feb,Aug,6,Feb-Aug,SBERT,0.626,0.0078,0.6583,0.0086,30,0.9029,very strong (.8 1],0.0324,Month
+16,Feb,Sep,7,Feb-Sep,BoW,0.6574,0.0078,0.7062,0.0094,30,0.88,very strong (.8 1],0.0488,Month
+16,Feb,Sep,7,Feb-Sep,SBERT,0.6347,0.0068,0.6658,0.0081,30,0.8681,very strong (.8 1],0.0311,Month
+16,Mar,Apr,1,Mar-Apr,BoW,0.598,0.0078,0.6459,0.0078,30,0.8051,very strong (.8 1],0.0479,Month
+16,Mar,Apr,1,Mar-Apr,SBERT,0.5865,0.0073,0.6117,0.0074,30,0.8351,very strong (.8 1],0.0252,Month
+16,Mar,May,2,Mar-May,BoW,0.6069,0.0083,0.6621,0.0058,30,0.7235,strong (.6 .8],0.0551,Month
+16,Mar,May,2,Mar-May,SBERT,0.5904,0.0063,0.6198,0.0058,30,0.7794,strong (.6 .8],0.0294,Month
+16,Mar,Jun,3,Mar-Jun,BoW,0.636,0.0068,0.6861,0.0059,30,0.752,strong (.6 .8],0.05,Month
+16,Mar,Jun,3,Mar-Jun,SBERT,0.6135,0.0065,0.642,0.006,30,0.7171,strong (.6 .8],0.0284,Month
+16,Mar,Jul,4,Mar-Jul,BoW,0.6277,0.0079,0.6868,0.0056,30,0.8105,very strong (.8 1],0.0591,Month
+16,Mar,Jul,4,Mar-Jul,SBERT,0.6126,0.007,0.6444,0.0065,30,0.8285,very strong (.8 1],0.0318,Month
+16,Mar,Aug,5,Mar-Aug,BoW,0.6335,0.0107,0.6934,0.0103,30,0.9316,very strong (.8 1],0.0599,Month
+16,Mar,Aug,5,Mar-Aug,SBERT,0.6195,0.0107,0.6528,0.0109,30,0.918,very strong (.8 1],0.0332,Month
+16,Mar,Sep,6,Mar-Sep,BoW,0.6465,0.0101,0.7015,0.0101,30,0.9053,very strong (.8 1],0.0551,Month
+16,Mar,Sep,6,Mar-Sep,SBERT,0.631,0.0086,0.6625,0.0078,30,0.927,very strong (.8 1],0.0315,Month
+16,Apr,May,1,Apr-May,BoW,0.5873,0.0065,0.6391,0.0067,30,0.8658,very strong (.8 1],0.0518,Month
+16,Apr,May,1,Apr-May,SBERT,0.5704,0.0058,0.5977,0.0065,30,0.8924,very strong (.8 1],0.0273,Month
+16,Apr,Jun,2,Apr-Jun,BoW,0.627,0.0065,0.6755,0.0079,30,0.7865,strong (.6 .8],0.0485,Month
+16,Apr,Jun,2,Apr-Jun,SBERT,0.6006,0.0068,0.634,0.0078,30,0.8363,very strong (.8 1],0.0334,Month
+16,Apr,Jul,3,Apr-Jul,BoW,0.6182,0.0078,0.6783,0.008,30,0.829,very strong (.8 1],0.06,Month
+16,Apr,Jul,3,Apr-Jul,SBERT,0.5962,0.0065,0.6316,0.0087,30,0.8493,very strong (.8 1],0.0354,Month
+16,Apr,Aug,4,Apr-Aug,BoW,0.6426,0.0099,0.6935,0.0093,30,0.7988,strong (.6 .8],0.0509,Month
+16,Apr,Aug,4,Apr-Aug,SBERT,0.6233,0.0077,0.6528,0.009,30,0.8657,very strong (.8 1],0.0295,Month
+16,Apr,Sep,5,Apr-Sep,BoW,0.645,0.0097,0.6961,0.0101,30,0.8215,very strong (.8 1],0.0511,Month
+16,Apr,Sep,5,Apr-Sep,SBERT,0.6151,0.0087,0.6487,0.0079,30,0.8898,very strong (.8 1],0.0336,Month
+16,May,Jun,1,May-Jun,BoW,0.6127,0.0061,0.6549,0.0064,30,0.7934,strong (.6 .8],0.0421,Month
+16,May,Jun,1,May-Jun,SBERT,0.5964,0.007,0.6226,0.007,30,0.7702,strong (.6 .8],0.0262,Month
+16,May,Jul,2,May-Jul,BoW,0.6116,0.0067,0.6706,0.007,30,0.724,strong (.6 .8],0.059,Month
+16,May,Jul,2,May-Jul,SBERT,0.5969,0.0051,0.6306,0.0056,30,0.7536,strong (.6 .8],0.0337,Month
+16,May,Aug,3,May-Aug,BoW,0.6338,0.0086,0.69,0.0079,30,0.7835,strong (.6 .8],0.0561,Month
+16,May,Aug,3,May-Aug,SBERT,0.6216,0.0091,0.651,0.0092,30,0.9322,very strong (.8 1],0.0294,Month
+16,May,Sep,4,May-Sep,BoW,0.6443,0.0084,0.6931,0.0081,30,0.8108,very strong (.8 1],0.0488,Month
+16,May,Sep,4,May-Sep,SBERT,0.6234,0.0068,0.6531,0.0066,30,0.7782,strong (.6 .8],0.0297,Month
+16,Jun,Jul,1,Jun-Jul,BoW,0.5914,0.004,0.6321,0.0058,30,0.557,moderate (.4 .6],0.0407,Month
+16,Jun,Jul,1,Jun-Jul,SBERT,0.5836,0.0045,0.6081,0.0042,30,0.7107,strong (.6 .8],0.0245,Month
+16,Jun,Aug,2,Jun-Aug,BoW,0.6284,0.0076,0.6764,0.0077,30,0.759,strong (.6 .8],0.048,Month
+16,Jun,Aug,2,Jun-Aug,SBERT,0.6206,0.0074,0.6468,0.0081,30,0.9145,very strong (.8 1],0.0262,Month
+16,Jun,Sep,3,Jun-Sep,BoW,0.6469,0.0075,0.6884,0.0078,30,0.7934,strong (.6 .8],0.0415,Month
+16,Jun,Sep,3,Jun-Sep,SBERT,0.6269,0.0061,0.6507,0.0081,30,0.7854,strong (.6 .8],0.0239,Month
+16,Jul,Aug,1,Jul-Aug,BoW,0.6083,0.0083,0.6502,0.0077,30,0.7846,strong (.6 .8],0.0419,Month
+16,Jul,Aug,1,Jul-Aug,SBERT,0.5979,0.0084,0.6197,0.0082,30,0.9257,very strong (.8 1],0.0218,Month
+16,Jul,Sep,2,Jul-Sep,BoW,0.6327,0.0082,0.6815,0.0071,30,0.7253,strong (.6 .8],0.0488,Month
+16,Jul,Sep,2,Jul-Sep,SBERT,0.6183,0.0074,0.6387,0.0068,30,0.7874,strong (.6 .8],0.0204,Month
+16,Aug,Sep,1,Aug-Sep,BoW,0.6078,0.0072,0.659,0.0085,30,0.8197,very strong (.8 1],0.0512,Month
+16,Aug,Sep,1,Aug-Sep,SBERT,0.5919,0.0071,0.6138,0.0079,30,0.8129,very strong (.8 1],0.022,Month
+32,Jan,Feb,1,Jan-Feb,BoW,0.6157,0.0063,0.6333,0.0068,30,0.8342,very strong (.8 1],0.0176,Month
+32,Jan,Feb,1,Jan-Feb,SBERT,0.5907,0.0075,0.6025,0.0071,30,0.9142,very strong (.8 1],0.0117,Month
+32,Jan,Mar,2,Jan-Mar,BoW,0.6337,0.0068,0.6634,0.0077,30,0.8181,very strong (.8 1],0.0296,Month
+32,Jan,Mar,2,Jan-Mar,SBERT,0.6094,0.0068,0.6222,0.0076,30,0.9208,very strong (.8 1],0.0128,Month
+32,Jan,Apr,3,Jan-Apr,BoW,0.6382,0.0094,0.6691,0.0102,30,0.8497,very strong (.8 1],0.0309,Month
+32,Jan,Apr,3,Jan-Apr,SBERT,0.6157,0.008,0.634,0.0093,30,0.8727,very strong (.8 1],0.0183,Month
+32,Jan,May,4,Jan-May,BoW,0.6433,0.0067,0.6763,0.0077,30,0.8091,very strong (.8 1],0.033,Month
+32,Jan,May,4,Jan-May,SBERT,0.6183,0.0065,0.6356,0.0079,30,0.8819,very strong (.8 1],0.0173,Month
+32,Jan,Jun,5,Jan-Jun,BoW,0.6529,0.0064,0.6833,0.0072,30,0.7893,strong (.6 .8],0.0304,Month
+32,Jan,Jun,5,Jan-Jun,SBERT,0.6355,0.006,0.6487,0.0075,30,0.8697,very strong (.8 1],0.0132,Month
+32,Jan,Jul,6,Jan-Jul,BoW,0.6469,0.008,0.6864,0.0082,30,0.8947,very strong (.8 1],0.0395,Month
+32,Jan,Jul,6,Jan-Jul,SBERT,0.6299,0.0069,0.6432,0.0074,30,0.9112,very strong (.8 1],0.0133,Month
+32,Jan,Aug,7,Jan-Aug,BoW,0.6615,0.0104,0.694,0.0097,30,0.9236,very strong (.8 1],0.0326,Month
+32,Jan,Aug,7,Jan-Aug,SBERT,0.6403,0.0088,0.6607,0.0083,30,0.919,very strong (.8 1],0.0204,Month
+32,Jan,Sep,8,Jan-Sep,BoW,0.6726,0.0093,0.6998,0.0092,30,0.89,very strong (.8 1],0.0272,Month
+32,Jan,Sep,8,Jan-Sep,SBERT,0.6494,0.0098,0.6602,0.01,30,0.929,very strong (.8 1],0.0109,Month
+32,Feb,Mar,1,Feb-Mar,BoW,0.6149,0.01,0.6464,0.0107,30,0.9087,very strong (.8 1],0.0316,Month
+32,Feb,Mar,1,Feb-Mar,SBERT,0.6008,0.0093,0.616,0.0099,30,0.929,very strong (.8 1],0.0152,Month
+32,Feb,Apr,2,Feb-Apr,BoW,0.6467,0.009,0.6792,0.0091,30,0.8684,very strong (.8 1],0.0325,Month
+32,Feb,Apr,2,Feb-Apr,SBERT,0.6189,0.0064,0.6328,0.0069,30,0.8326,very strong (.8 1],0.0139,Month
+32,Feb,May,3,Feb-May,BoW,0.6394,0.0073,0.6772,0.0075,30,0.8399,very strong (.8 1],0.0378,Month
+32,Feb,May,3,Feb-May,SBERT,0.6216,0.0063,0.6407,0.0065,30,0.9057,very strong (.8 1],0.0191,Month
+32,Feb,Jun,4,Feb-Jun,BoW,0.6571,0.0069,0.6891,0.0076,30,0.7746,strong (.6 .8],0.0321,Month
+32,Feb,Jun,4,Feb-Jun,SBERT,0.631,0.0063,0.6471,0.0068,30,0.8511,very strong (.8 1],0.0161,Month
+32,Feb,Jul,5,Feb-Jul,BoW,0.6573,0.0076,0.6937,0.008,30,0.7589,strong (.6 .8],0.0364,Month
+32,Feb,Jul,5,Feb-Jul,SBERT,0.6328,0.0063,0.6472,0.0063,30,0.8223,very strong (.8 1],0.0144,Month
+32,Feb,Aug,6,Feb-Aug,BoW,0.6618,0.0094,0.7026,0.009,30,0.9272,very strong (.8 1],0.0408,Month
+32,Feb,Aug,6,Feb-Aug,SBERT,0.6399,0.0083,0.6583,0.0086,30,0.9331,very strong (.8 1],0.0185,Month
+32,Feb,Sep,7,Feb-Sep,BoW,0.6762,0.0082,0.7062,0.0094,30,0.9014,very strong (.8 1],0.03,Month
+32,Feb,Sep,7,Feb-Sep,SBERT,0.6487,0.0072,0.6658,0.0081,30,0.9183,very strong (.8 1],0.0171,Month
+32,Mar,Apr,1,Mar-Apr,BoW,0.6172,0.0081,0.6459,0.0078,30,0.8448,very strong (.8 1],0.0287,Month
+32,Mar,Apr,1,Mar-Apr,SBERT,0.5985,0.0072,0.6117,0.0074,30,0.8388,very strong (.8 1],0.0131,Month
+32,Mar,May,2,Mar-May,BoW,0.624,0.0067,0.6621,0.0058,30,0.8427,very strong (.8 1],0.0381,Month
+32,Mar,May,2,Mar-May,SBERT,0.6102,0.0061,0.6198,0.0058,30,0.8142,very strong (.8 1],0.0096,Month
+32,Mar,Jun,3,Mar-Jun,BoW,0.6526,0.0064,0.6861,0.0059,30,0.8375,very strong (.8 1],0.0335,Month
+32,Mar,Jun,3,Mar-Jun,SBERT,0.6294,0.0061,0.642,0.006,30,0.7976,strong (.6 .8],0.0126,Month
+32,Mar,Jul,4,Mar-Jul,BoW,0.6458,0.0075,0.6868,0.0056,30,0.78,strong (.6 .8],0.041,Month
+32,Mar,Jul,4,Mar-Jul,SBERT,0.6268,0.0065,0.6444,0.0065,30,0.8418,very strong (.8 1],0.0176,Month
+32,Mar,Aug,5,Mar-Aug,BoW,0.6586,0.0101,0.6934,0.0103,30,0.9261,very strong (.8 1],0.0347,Month
+32,Mar,Aug,5,Mar-Aug,SBERT,0.6365,0.0102,0.6528,0.0109,30,0.952,very strong (.8 1],0.0162,Month
+32,Mar,Sep,6,Mar-Sep,BoW,0.6652,0.0094,0.7015,0.0101,30,0.9152,very strong (.8 1],0.0363,Month
+32,Mar,Sep,6,Mar-Sep,SBERT,0.6459,0.008,0.6625,0.0078,30,0.946,very strong (.8 1],0.0166,Month
+32,Apr,May,1,Apr-May,BoW,0.6056,0.0061,0.6391,0.0067,30,0.8804,very strong (.8 1],0.0335,Month
+32,Apr,May,1,Apr-May,SBERT,0.5804,0.0059,0.5977,0.0065,30,0.9135,very strong (.8 1],0.0173,Month
+32,Apr,Jun,2,Apr-Jun,BoW,0.6404,0.0072,0.6755,0.0079,30,0.9139,very strong (.8 1],0.0351,Month
+32,Apr,Jun,2,Apr-Jun,SBERT,0.6183,0.007,0.634,0.0078,30,0.8464,very strong (.8 1],0.0157,Month
+32,Apr,Jul,3,Apr-Jul,BoW,0.635,0.0086,0.6783,0.008,30,0.8614,very strong (.8 1],0.0432,Month
+32,Apr,Jul,3,Apr-Jul,SBERT,0.6115,0.0073,0.6316,0.0087,30,0.8841,very strong (.8 1],0.0202,Month
+32,Apr,Aug,4,Apr-Aug,BoW,0.662,0.0098,0.6935,0.0093,30,0.8588,very strong (.8 1],0.0315,Month
+32,Apr,Aug,4,Apr-Aug,SBERT,0.6363,0.0081,0.6528,0.009,30,0.8937,very strong (.8 1],0.0165,Month
+32,Apr,Sep,5,Apr-Sep,BoW,0.6662,0.0095,0.6961,0.0101,30,0.8739,very strong (.8 1],0.0299,Month
+32,Apr,Sep,5,Apr-Sep,SBERT,0.6245,0.0084,0.6487,0.0079,30,0.9206,very strong (.8 1],0.0242,Month
+32,May,Jun,1,May-Jun,BoW,0.6268,0.0057,0.6549,0.0064,30,0.8166,very strong (.8 1],0.028,Month
+32,May,Jun,1,May-Jun,SBERT,0.6054,0.0065,0.6226,0.007,30,0.8795,very strong (.8 1],0.0172,Month
+32,May,Jul,2,May-Jul,BoW,0.6328,0.007,0.6706,0.007,30,0.8342,very strong (.8 1],0.0378,Month
+32,May,Jul,2,May-Jul,SBERT,0.6139,0.005,0.6306,0.0056,30,0.788,strong (.6 .8],0.0167,Month
+32,May,Aug,3,May-Aug,BoW,0.6537,0.0084,0.69,0.0079,30,0.7791,strong (.6 .8],0.0363,Month
+32,May,Aug,3,May-Aug,SBERT,0.6385,0.0093,0.651,0.0092,30,0.9394,very strong (.8 1],0.0125,Month
+32,May,Sep,4,May-Sep,BoW,0.6604,0.0076,0.6931,0.0081,30,0.8725,very strong (.8 1],0.0327,Month
+32,May,Sep,4,May-Sep,SBERT,0.6354,0.0058,0.6531,0.0066,30,0.8803,very strong (.8 1],0.0177,Month
+32,Jun,Jul,1,Jun-Jul,BoW,0.6062,0.0046,0.6321,0.0058,30,0.7051,strong (.6 .8],0.026,Month
+32,Jun,Jul,1,Jun-Jul,SBERT,0.5942,0.0046,0.6081,0.0042,30,0.7975,strong (.6 .8],0.0139,Month
+32,Jun,Aug,2,Jun-Aug,BoW,0.6437,0.0077,0.6764,0.0077,30,0.8248,very strong (.8 1],0.0327,Month
+32,Jun,Aug,2,Jun-Aug,SBERT,0.6346,0.0069,0.6468,0.0081,30,0.9366,very strong (.8 1],0.0122,Month
+32,Jun,Sep,3,Jun-Sep,BoW,0.661,0.0077,0.6884,0.0078,30,0.8235,very strong (.8 1],0.0274,Month
+32,Jun,Sep,3,Jun-Sep,SBERT,0.6419,0.0063,0.6507,0.0081,30,0.8759,very strong (.8 1],0.0088,Month
+32,Jul,Aug,1,Jul-Aug,BoW,0.6183,0.0091,0.6502,0.0077,30,0.8421,very strong (.8 1],0.0319,Month
+32,Jul,Aug,1,Jul-Aug,SBERT,0.6079,0.0084,0.6197,0.0082,30,0.9296,very strong (.8 1],0.0119,Month
+32,Jul,Sep,2,Jul-Sep,BoW,0.6536,0.0085,0.6815,0.0071,30,0.7718,strong (.6 .8],0.0279,Month
+32,Jul,Sep,2,Jul-Sep,SBERT,0.6294,0.0074,0.6387,0.0068,30,0.7929,strong (.6 .8],0.0094,Month
+32,Aug,Sep,1,Aug-Sep,BoW,0.6202,0.0073,0.659,0.0085,30,0.9015,very strong (.8 1],0.0388,Month
+32,Aug,Sep,1,Aug-Sep,SBERT,0.6041,0.007,0.6138,0.0079,30,0.8759,very strong (.8 1],0.0097,Month

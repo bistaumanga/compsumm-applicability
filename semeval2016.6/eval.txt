@@ -1,0 +1,234 @@
+predictions/predsA_cbc_bacc_emb_rbf_greedy-diff_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3081 recall: 0.3618 f-score: 0.3328
+AGAINST   precision: 0.6884 recall: 0.4140 f-score: 0.5170
+------------
+Macro F: 0.4249
+
+
+
+predictions/predsA_cbc_bacc_emb_rbf_greedy-diff_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3525 recall: 0.4836 f-score: 0.4078
+AGAINST   precision: 0.6849 recall: 0.4378 f-score: 0.5341
+------------
+Macro F: 0.4709
+
+
+
+predictions/predsA_cbc_bacc_tok_bow_cos_nn_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.4046 recall: 0.5164 f-score: 0.4538
+AGAINST   precision: 0.7275 recall: 0.3734 f-score: 0.4935
+------------
+Macro F: 0.4736
+
+
+
+predictions/predsA_cbc_bacc_tok_bow_cos_nn_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3916 recall: 0.4934 f-score: 0.4367
+AGAINST   precision: 0.7423 recall: 0.3021 f-score: 0.4294
+------------
+Macro F: 0.4331
+
+
+
+predictions/predsA_cbc_bacc_tok_bow_exp_greedy-diff_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3150 recall: 0.3586 f-score: 0.3354
+AGAINST   precision: 0.7132 recall: 0.5077 f-score: 0.5931
+------------
+Macro F: 0.4643
+
+
+
+predictions/predsA_cbc_bacc_tok_bow_exp_greedy-diff_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3500 recall: 0.3454 f-score: 0.3477
+AGAINST   precision: 0.6996 recall: 0.4951 f-score: 0.5799
+------------
+Macro F: 0.4638
+
+
+
+predictions/predsA_cbc_emb_rbf_greedy-diff_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3926 recall: 0.4868 f-score: 0.4347
+AGAINST   precision: 0.6854 recall: 0.5455 f-score: 0.6075
+------------
+Macro F: 0.5211
+
+
+
+predictions/predsA_cbc_emb_rbf_greedy-diff_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3780 recall: 0.4178 f-score: 0.3969
+AGAINST   precision: 0.6689 recall: 0.5622 f-score: 0.6109
+------------
+Macro F: 0.5039
+
+
+
+predictions/predsA_cbc_tok_bow_cos_nn_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.4205 recall: 0.5395 f-score: 0.4726
+AGAINST   precision: 0.7435 recall: 0.3972 f-score: 0.5178
+------------
+Macro F: 0.4952
+
+
+
+predictions/predsA_cbc_tok_bow_cos_nn_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.4197 recall: 0.4901 f-score: 0.4522
+AGAINST   precision: 0.7516 recall: 0.3301 f-score: 0.4587
+------------
+Macro F: 0.4554
+
+
+
+predictions/predsA_cbc_tok_bow_exp_greedy-diff_10.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3219 recall: 0.3717 f-score: 0.3450
+AGAINST   precision: 0.6972 recall: 0.5315 f-score: 0.6032
+------------
+Macro F: 0.4741
+
+
+
+predictions/predsA_cbc_tok_bow_exp_greedy-diff_5.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.3065 recall: 0.3388 f-score: 0.3219
+AGAINST   precision: 0.7085 recall: 0.5133 f-score: 0.5953
+------------
+Macro F: 0.4586
+
+
+
+predictions/predsA_ub_refit0_wtL0_os0.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.6127 recall: 0.5724 f-score: 0.5918
+AGAINST   precision: 0.7406 recall: 0.7706 f-score: 0.7553
+------------
+Macro F: 0.6736
+
+
+
+predictions/predsA_ub_refit0_wtL0_os1.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.5124 recall: 0.6809 f-score: 0.5847
+AGAINST   precision: 0.8186 recall: 0.5552 f-score: 0.6617
+------------
+Macro F: 0.6232
+
+
+
+predictions/predsA_ub_refit0_wtL1_os0.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.5024 recall: 0.7007 f-score: 0.5852
+AGAINST   precision: 0.8274 recall: 0.5231 f-score: 0.6410
+------------
+Macro F: 0.6131
+
+
+
+predictions/predsA_ub_refit1_wtL0_os0.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.6290 recall: 0.5855 f-score: 0.6065
+AGAINST   precision: 0.7442 recall: 0.7650 f-score: 0.7545
+------------
+Macro F: 0.6805
+
+
+
+predictions/predsA_ub_refit1_wtL0_os1.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.5149 recall: 0.6842 f-score: 0.5876
+AGAINST   precision: 0.8355 recall: 0.5329 f-score: 0.6507
+------------
+Macro F: 0.6191
+
+
+
+predictions/predsA_ub_refit1_wtL1_os0.txt
+
+
+============
+Results				 
+============
+FAVOR     precision: 0.5146 recall: 0.6941 f-score: 0.5910
+AGAINST   precision: 0.8379 recall: 0.5566 f-score: 0.6689
+------------
+Macro F: 0.6300
+
+
+
